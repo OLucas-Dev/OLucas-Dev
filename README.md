@@ -1,11 +1,24 @@
-# Olá, eu sou Lucas 👋
+# Hi, I'm Lucas 👋
 
-Sou estudante de desenvolvimento web Full Stack, atualmente focado em HTML e CSS.  
-Em breve aprenderei JavaScript e frameworks front-end.
+I'm a Full Stack web development student, currently focused on HTML and CSS.
 
-## Meus projetos
-- Projeto 1: Portfolio Responsivo (HTML + CSS)
-- Projeto 2: Calculadora em JS (em breve)
+I will soon learn JavaScript and front-end frameworks.
 
-## Contato
-- LinkedIn: [Cliqueaqui](https://www.linkedin.com/in/seulinkedin)
+## My Projects
+
+HTML
+- Project 1: Book catalog website
+- Project 2: Checkout website
+- Project 3: Multimedia website
+- Project 4: User search website (coming soon)
+- Project 5: Chocolate recipe website (coming soon)
+- Project 6: Movie review website (coming soon)
+- Project 7: Travel website (coming soon)
+
+CSS (coming soon)
+-----------------
+JAVASCRIPT (coming soon)
+------------------------
+
+## Contact
+- LinkedIn: [Click here](https://www.linkedin.com/in/yourlinkedin)
